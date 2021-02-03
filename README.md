@@ -1,12 +1,11 @@
 ### Hi there 👋
-大家好，很高兴在这个机缘巧合的情况下认识大家
-我是高文卓，来自甘肃陇南，兴趣爱好是睡觉追剧。
-世上无难事，只要肯放弃！
+大家好，很高兴在这个机缘巧合的情况下认识大家！<br>
+我是高文卓，来自甘肃陇南，兴趣爱好是睡觉追剧。<br>
+世上无难事，只要肯放弃！<br>
 <!--
 **gwz-1127/gwz-1127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
